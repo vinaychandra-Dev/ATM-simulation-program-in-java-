@@ -29,11 +29,21 @@ git clone <https://github.com/vinaychandra-Dev/ATM-simulation-program-in-java-.g
 2. **Compile the program**:
 
 javac ATM.java
+
 3. ***Run the program**:
+
 java ATM
-🔑 Default PIN
+
+---
+
+## 🔑 Default PIN
+
 1234
-🛠️ Future Improvements
+
+---
+
+## 🛠️ Future Improvements
+
 Implement multiple user accounts using HashMap
 
 Add PIN attempt limits to block unauthorized access
@@ -42,16 +52,26 @@ Store transaction history using ArrayList or file storage
 
 Build a JavaFX GUI-based ATM for better user interface and practice
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-📄 License
+---
+
+## 📄 License
 This project is open-source and free to use for learning purposes. See LICENSE for more details.
 
-🙌 Author
+---
+
+## 🙌 Author
+
 Name: vinay chandra
 
 GitHub: https://github.com/vinaychandra-Dev
 
-⭐ If you find this helpful, give it a star on GitHub!
+---
+
+## ⭐ If you find this helpful, give it a star on GitHub!
 
