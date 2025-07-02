@@ -28,7 +28,6 @@ git clone <https://github.com/vinaychandra-Dev/ATM-simulation-program-in-java-.g
 
 2. **Compile the program**:
 
-```bash
 javac ATM.java
 3. ***Run the program**:
 java ATM
