@@ -24,7 +24,7 @@ This is a **simple ATM simulation program written in Java**. It demonstrates bas
 
 1. **Clone the repository** or copy the source code into your Java project folder.
 
-git clone <>
+git clone <https://github.com/vinaychandra-Dev/ATM-simulation-program-in-java-.git>
 
 2. **Compile the program**:
 
@@ -52,7 +52,7 @@ This project is open-source and free to use for learning purposes. See LICENSE f
 🙌 Author
 Name: vinay chandra
 
-GitHub: [Your GitHub Profile Link]
+GitHub: https://github.com/vinaychandra-Dev
 
 ⭐ If you find this helpful, give it a star on GitHub!
 
