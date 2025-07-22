@@ -77,5 +77,5 @@ GitHub: https://github.com/vinaychandra-Dev
 
 ## ATM Flowchart
 
-![ATM Flowchart](ATM_flowchart_png.drawio)
+![ATM Flowchart](ATM_flowchart_png.drawio.png)
 
